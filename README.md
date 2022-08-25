@@ -10,7 +10,7 @@ The project uses MERN stack.
 - Backend: Express.js, Node.js
 - Database: MongoDB  
 
-### My Contribution  
+### Yanjie's Contribution  
 - Prototype with Figma (click [here](https://www.figma.com/proto/Gif16Vt7j81WJ8witb5VGG/Book?page-id=0%3A1&node-id=34%3A1333&viewport=28%2C105%2C0.1&scaling=contain) to view it online)  
 - Fullstack contribution  
   - User profile create & update   
@@ -18,6 +18,20 @@ The project uses MERN stack.
   - Exchange order process and detail page  
 - Other pure frontend contribution  
   - All pages' layout & styles shown below  
+
+### Ke's Contribution   
+- Fullstack contribution  
+  - Bookmate matching request sending, accepting, declining  
+- Backend contribution  
+  - Set up backend infrastructures & MongoDB  
+  - Data models and CRUDs: User, Bookmate, Book Collection & Wish List  
+  - Bookmates matching algorithm  
+  - Add new books to database, Email notification for bookmate requests, Order declined API   
+- Frontend Contribution  
+  - The global search functionality and main search result page  
+  - Buttons & functionalities: decline exchange request  
+  - Connect the main page to backend data  
+  - Book list to book detail page navigation  
 ---
 ## Gallery  
 ### Auth Page  
